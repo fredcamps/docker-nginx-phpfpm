@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:jessie
 
 MAINTAINER Fabio Ribeiro <silva.ribeiro@dafiti.com.br>
 
